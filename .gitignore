@@ -23,4 +23,5 @@ package-lock.json
 .DS_Store
 
 .codex/
+.codex
 *.typ
