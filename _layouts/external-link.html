@@ -1,0 +1,32 @@
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+    {% if page.link %}
+    <meta http-equiv="refresh" content="0; url={{ page.link }}">
+    <link rel="canonical" href="{{ page.link }}">
+    <script>
+      window.location.replace({{ page.link | jsonify }});
+    </script>
+    {% endif %}
+  </head>
+
+  <body>
+    <div id="main" role="main">
+      <article class="page">
+        <div class="page__inner-wrap">
+          <section class="page__content">
+            <p>Redirecting to <a href="{{ page.link }}">{{ page.link }}</a>...</p>
+          </section>
+        </div>
+      </article>
+    </div>
+  </body>
+</html>
