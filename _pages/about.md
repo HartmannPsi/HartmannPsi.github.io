@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wenbin Huang"
+title: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 I am Wenbin Huang, a third-year undergraduate student in Computer Science and Technology at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), where I am part of the Zhiyuan Honors Program [ACM Class](https://acm.sjtu.edu.cn/home). I expect to receive my B.S. degree in June 2027.
 
-I am currently a research intern at [X-LANCE](https://x-lance.github.io/), advised by [Prof. Kai Yu](https://x-lance.github.io/kaiyu/). My research interests include speech intelligence, AudioLLM, audio-text understanding, and automatic speech recognition.
+I am currently a research intern at [WAVLab](https://www.wavlab.org/) in [LTI, Carnegie Mellon University](https://www.lti.cs.cmu.edu/), advised by [Prof. Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe), and at [X-LANCE](https://x-lance.github.io/) in [SCS, SJTU](https://www.cs.sjtu.edu.cn/en/), advised by [Prof. Kai Yu](https://x-lance.github.io/kaiyu/). My research interests include speech intelligence, AudioLLM, audio-text understanding, and automatic speech recognition.
 
 After graduation, I plan to apply to Ph.D. programs in related areas in North America, Singapore, or Hong Kong. Outside research, I enjoy games, music, animation, and good food. Feel free to contact me.
 
@@ -39,8 +39,7 @@ Honors
 ======
 
 - Zhiyuan Honors Program, top 10% students in SJTU
-- Zhiyuan Honor Scholarship, 2023
-- Zhiyuan Honor Scholarship, 2024
+- Zhiyuan Honor Scholarship, 2023, 2024 & 2025
 
 Disclaimer
 ======
