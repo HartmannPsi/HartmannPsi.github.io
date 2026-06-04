@@ -2,16 +2,16 @@
 layout: external-link
 title: "RAS: a Reliability Oriented Metric for Automatic Speech Recognition"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/reliable-asr-manuscript
 link: "https://arxiv.org/pdf/2604.24278"
-excerpt: "arXiv preprint. Co-first author."
+excerpt: "Accepted by InterSpeech 2026. Co-first Author."
 date: 2026-01-02
-venue: "arXiv preprint"
+venue: "InterSpeech 2026"
 paperurl: "https://arxiv.org/pdf/2604.24278"
-citation: "Wenbin Huang*, Yuhang Qiu*, et al. (2026). &quot;RAS: a Reliability Oriented Metric for Automatic Speech Recognition.&quot; arXiv preprint."
+citation: "Wenbin Huang*, Yuhang Qiu*, et al. (2026). &quot;RAS: a Reliability Oriented Metric for Automatic Speech Recognition.&quot; InterSpeech 2026."
 ---
 
-Reliability-oriented evaluation metric for automatic speech recognition.
+Accepted by InterSpeech 2026.
 
-Wenbin Huang is a co-first author on this work.
+Wenbin Huang is a Co-first Author on this work.

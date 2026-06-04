@@ -26,8 +26,8 @@ Research Interests
 Selected Publications
 ======
 
-- Bohan Li\*, **Wenbin Huang**\*, Yuhang Qiu\*, et al. "[ISA-Bench: Benchmarking Instruction Sensitivity for Large Audio Language Models](https://arxiv.org/pdf/2510.23558)." Accepted by IEEE ICASSP 2026. Co-first author, oral presentation.
-- **Wenbin Huang**\*, Yuhang Qiu\*, et al. "[RAS: a Reliability Oriented Metric for Automatic Speech Recognition](https://arxiv.org/pdf/2604.24278)." arXiv preprint. Co-first author.
+- **Wenbin Huang**\*, Yuhang Qiu\*, et al. "[RAS: a Reliability Oriented Metric for Automatic Speech Recognition](https://arxiv.org/pdf/2604.24278)." Accepted by InterSpeech 2026. Co-first Author.
+- Bohan Li\*, **Wenbin Huang**\*, Yuhang Qiu\*, et al. "[ISA-Bench: Benchmarking Instruction Sensitivity for Large Audio Language Models](https://arxiv.org/pdf/2510.23558)." Accepted by IEEE ICASSP 2026. Co-first Author, Oral Presentation.
 
 Selected Projects
 ======

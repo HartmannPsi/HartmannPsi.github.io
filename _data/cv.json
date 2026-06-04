@@ -66,18 +66,18 @@
   "references": [],
   "publications": [
     {
+      "name": "RAS: a Reliability Oriented Metric for Automatic Speech Recognition",
+      "publisher": "InterSpeech 2026",
+      "releaseDate": "2026",
+      "website": "https://arxiv.org/abs/2604.24278",
+      "summary": "Wenbin Huang*, Yuhang Qiu*, et al. Co-first Author."
+    },
+    {
       "name": "ISA-Bench: Benchmarking Instruction Sensitivity for Large Audio Language Models",
       "publisher": "IEEE ICASSP 2026",
       "releaseDate": "2026",
       "website": "https://arxiv.org/pdf/2510.23558",
-      "summary": "Bohan Li*, Wenbin Huang*, Yuhang Qiu*, et al. Accepted paper. Co-first author, oral presentation."
-    },
-    {
-      "name": "RAS: a Reliability Oriented Metric for Automatic Speech Recognition",
-      "publisher": "arXiv preprint",
-      "releaseDate": "2026",
-      "website": "https://arxiv.org/abs/2604.24278",
-      "summary": "Wenbin Huang*, Yuhang Qiu*, et al. Co-first author."
+      "summary": "Bohan Li*, Wenbin Huang*, Yuhang Qiu*, et al. Accepted paper. Co-first Author, Oral Presentation."
     }
   ],
   "presentations": [],
