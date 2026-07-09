@@ -8,14 +8,21 @@
           <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' %}selected{% endif %}">
             <a href="{{ base_path }}/">{{ site.title }}</a>
           </li>
+          {% assign cv_file = site.static_files | where: "name", "Wenbin_Huang_CV.pdf" | first %}
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
             {% else %}
               {% assign domain = base_path %}
             {% endif %}
+            {% if link.url contains 'Wenbin_Huang_CV.pdf' and cv_file %}
+              {% assign cv_ts = cv_file.modified_time | date: "%s" %}
+              {% assign cv_version = link.url | append: '?v=' | append: cv_ts %}
+            {% else %}
+              {% assign cv_version = link.url %}
+            {% endif %}
             <li class="masthead__menu-item {% if page.url contains link.url and link.url != '/' %}selected{% endif %}">
-              <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+              <a href="{{ domain }}{{ cv_version }}">{{ link.title }}</a>
             </li>
           {% endfor %}
           <li id="theme-toggle" class="masthead__menu-item persist tail">
