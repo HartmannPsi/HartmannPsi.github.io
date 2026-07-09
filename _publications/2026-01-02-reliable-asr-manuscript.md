@@ -5,7 +5,7 @@ collection: publications
 category: conferences
 permalink: /publication/reliable-asr-manuscript
 link: "https://arxiv.org/pdf/2604.24278"
-excerpt: "Accepted by InterSpeech 2026. Co-first Author."
+excerpt: "Accepted by InterSpeech 2026. Equal Contribution."
 date: 2026-01-02
 venue: "InterSpeech 2026"
 paperurl: "https://arxiv.org/pdf/2604.24278"
@@ -14,4 +14,4 @@ citation: "Wenbin Huang*, Yuhang Qiu*, et al. (2026). &quot;RAS: a Reliability O
 
 Accepted by InterSpeech 2026.
 
-Wenbin Huang is a Co-first Author on this work.
+<!-- Wenbin Huang is a Equal Contribution on this work. -->
