@@ -7,33 +7,33 @@ redirect_from:
   - /about.html
 ---
 
-I am Wenbin Huang, a fourth-year undergraduate student in Computer Science and Technology at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), where I am part of the Zhiyuan Honors Program [ACM Class](https://acm.sjtu.edu.cn/home). I expect to receive my B.S. degree in June 2027.
+I am Wenbin Huang, a last-year undergraduate student in Computer Science and Technology at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), where I am part of the Zhiyuan Honors Program [ACM Class](https://acm.sjtu.edu.cn/home). I expect to receive my B.S. degree in June 2027.
 
-I am currently a research intern at [WAVLab](https://www.wavlab.org/) in [LTI, Carnegie Mellon University](https://www.lti.cs.cmu.edu/), advised by [Prof. Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe), and at [X-LANCE](https://x-lance.github.io/) in [SCS, SJTU](https://www.cs.sjtu.edu.cn/en/), advised by [Prof. Kai Yu](https://x-lance.github.io/kaiyu/). My research interests include speech intelligence, AudioLLM, audio-text understanding, and automatic speech recognition.
+I am currently a research intern at [WAVLab](https://www.wavlab.org/) in [LTI, Carnegie Mellon University](https://www.lti.cs.cmu.edu/), advised by [Prof. Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe), and at [X-LANCE](https://x-lance.github.io/) in [SCS, SJTU](https://www.cs.sjtu.edu.cn/en/), advised by [Prof. Kai Yu](https://x-lance.github.io/kaiyu/). My research interests include general audio understanding, multispeaker diarization, audioLLM, and automatic speech recognition.
 
-After graduation, I plan to apply to Ph.D. programs in related areas in North America, Singapore, or Hong Kong. Outside research, I enjoy games, music, animation, and good food. Feel free to contact me.
+After graduation, I plan to apply to Ph.D. programs in related areas in North America, Hong Kong, or Singapore. Outside research, I enjoy games, music, animation, and good food. Feel free to contact me.
 
 <!-- [Download CV (PDF)](/files/Wenbin_Huang_CV.pdf) -->
 
 Research Interests
 ======
 
-- Speech Intelligence
+- General Audio Understanding
+- Multispeaker Diarization
 - AudioLLM
-- Audio-Text Understanding
 - Automatic Speech Recognition (ASR)
 
 Selected Publications
 ======
 
-- **Wenbin Huang**\*, Yuhang Qiu\*, et al. "[RAS: a Reliability Oriented Metric for Automatic Speech Recognition](https://arxiv.org/pdf/2604.24278)." Accepted by InterSpeech 2026. Equal Contribution.
-- Bohan Li\*, **Wenbin Huang**\*, Yuhang Qiu\*, et al. "[ISA-Bench: Benchmarking Instruction Sensitivity for Large Audio Language Models](https://arxiv.org/pdf/2510.23558)." Accepted by IEEE ICASSP 2026. Equal Contribution, Oral Presentation.
+- **Wenbin Huang**\*, Yuhang Qiu\*, et al. "[RAS: a Reliability Oriented Metric for Automatic Speech Recognition](https://arxiv.org/pdf/2604.24278)." Accepted by InterSpeech 2026. Oral Presentation.
+- Bohan Li\*, **Wenbin Huang**\*, Yuhang Qiu\*, et al. "[ISA-Bench: Benchmarking Instruction Sensitivity for Large Audio Language Models](https://arxiv.org/pdf/2510.23558)." Accepted by IEEE ICASSP 2026. Oral Presentation.
 
-Selected Projects
+<!-- Selected Projects
 ======
 
 - [Tomasulo CPU (Verilog)](https://github.com/HartmannPsi/RISC-V-CPU): a RISC-V CPU supporting the `rv32ic` ISA with Tomasulo scheduling, branch prediction, and instruction cache.
-- [Java-like Compiler (Java)](https://github.com/HartmannPsi/Plain-Mx-Compiler): a compiler with semantic checking, code generation, and optimization passes including register allocation, inlining, and dead code elimination.
+- [Java-like Compiler (Java)](https://github.com/HartmannPsi/Plain-Mx-Compiler): a compiler with semantic checking, code generation, and optimization passes including register allocation, inlining, and dead code elimination. -->
 
 Honors
 ======
