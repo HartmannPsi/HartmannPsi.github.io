@@ -66,6 +66,13 @@
   "references": [],
   "publications": [
     {
+      "name": "LongCap: Hour-Scale Timestamped Audio Captioning via Chunk-wise Processing",
+      "publisher": "arXiv Preprint",
+      "releaseDate": "2026",
+      "website": "https://arxiv.org/abs/2611.11125",
+      "summary": "Jinchuan Tian*, Wenbin Huang*, et al. Co-first Author."
+    },
+    {
       "name": "RAS: a Reliability Oriented Metric for Automatic Speech Recognition",
       "publisher": "InterSpeech 2026",
       "releaseDate": "2026",
